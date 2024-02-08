@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@fontface {
+  font-family: "rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(/fonts/rubik.woff2) format("woff2");
+}
