@@ -3,7 +3,7 @@ import IonIcon from "@reacticons/ionicons"
 
 const countdiv = () => {
   return (
-    <div className="container mx-auto px-12">
+    <div className="container mx-auto px-12 font-customFont">
         <div className="md:grid md:grid-cols-5 md:gap-4 text-white md:px-8 md:my-8">
             <div className="bg-gray-900 rounded-xl px-8 py-4 my-8 md:my-0">
                 <span className="px-[60px]"><IonIcon size="large" name="newspaper" /></span>
