@@ -1,9 +1,10 @@
-import Contdiv from "./countdiv/countDiv"
+import Countdiv from "./countdiv/CountDiv"
+
 
 export default function App() {
   return (
     <div>
-      <Contdiv />
+      <Countdiv />
     </div>
   )
 }
