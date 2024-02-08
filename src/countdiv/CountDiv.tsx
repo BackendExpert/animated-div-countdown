@@ -1,3 +1,5 @@
+import CountUp from "react-countup/build/CountUp"
+
 
 const countdiv = () => {
   return (
@@ -5,6 +7,9 @@ const countdiv = () => {
         <div className="md:grid md:grid-cols-5 md:gap-4 text-white md:px-8 md:my-8">
             <div className="bg-gray-900 rounded px-8 py-4 my-8 md:my-0">
                 <h1 className="text-2xl font-semibold text-center">Title</h1>
+                <div className="">
+                    <CountUp end={100} />
+                </div>
             </div>
             <div className="bg-gray-900 rounded px-8 py-4 my-8 md:my-0">
                 <h1 className="text-2xl font-semibold text-center">Title</h1>
