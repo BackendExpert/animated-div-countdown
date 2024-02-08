@@ -22,12 +22,12 @@ const countdiv = () => {
             </div> 
             <div className="bg-gray-900 rounded-xl px-8 py-4 my-8 md:my-0">
                 <span className="px-[60px]"><IonIcon size="large" name="newspaper" /></span>
-                <h1 className="text-2xl font-thin text-center pt-4 pb-0">Patient</h1>
+                <h1 className="text-2xl font-thin text-center pt-4 pb-0">Faculties</h1>
                 <p className="text-xl text-center pt-0 pb-2 font-semibold">100</p>
             </div>
             <div className="bg-gray-900 rounded-xl px-8 py-4 my-8 md:my-0">
                 <span className="px-[60px]"><IonIcon size="large" name="newspaper" /></span>
-                <h1 className="text-2xl font-thin text-center pt-4 pb-0">Patient</h1>
+                <h1 className="text-2xl font-thin text-center pt-4 pb-0">Views</h1>
                 <p className="text-xl text-center pt-0 pb-2 font-semibold">100</p>
             </div>
         </div>
