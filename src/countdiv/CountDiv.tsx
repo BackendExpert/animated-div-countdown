@@ -1,4 +1,5 @@
 import CountUp from "react-countup"
+import IonIcon from "@reacticons/ionicons"
 
 const countdiv = () => {
   return (
