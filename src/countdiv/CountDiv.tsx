@@ -17,7 +17,7 @@ const countdiv = () => {
                 <h1 className="text-2xl font-semibold text-center">Faculties</h1>
             </div>
             <div className="bg-gray-900 rounded-xl px-8 py-4 my-8 md:my-0">
-                <h1 className="text-2xl font-semibold text-center"></h1>
+                <h1 className="text-2xl font-semibold text-center">Views</h1>
             </div>
         </div>
     </div>
